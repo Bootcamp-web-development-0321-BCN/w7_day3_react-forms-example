@@ -1,0 +1,11 @@
+.movies-container {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+.movie-item {
+  width: 30%;
+  border: 1px solid black;
+  margin-bottom: 50px;
+}
